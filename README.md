@@ -3,7 +3,7 @@
 HTTP POST is widely used in web applications for tasks like submitting forms, uploading files, and interacting with APIs. It allows for the transfer of complex data and is essential for various web-based services and applications.
 
 ## API DESCRIPTION
-
+FOR DRAFTING PURPOSES
 This API will contain endpoints that will insert, update, delete and extract data from the database. This API will be the foundation of API development.This API features  
 -Create: This operation involves sending a POST request to add new data or resources to a server. It is commonly used for creating new records in a database, such as adding a new user or item.    
 -Update: o remove data or resources from the server, a DELETE operation is not performed through a POST request, but rather through a dedicated HTTP DELETE request. This is a critical action to delete records or objects.  
